@@ -3,7 +3,7 @@ import { useState } from "react";
 function App() {
   return (
     <div className="flex flex-col items-center justify-center w-full h-screen">
-      <h1 className="font-black uppercase text-7xl">Hola Francisco</h1>
+      <h1 className="font-black uppercase text-7xl">Hola Francisco, eres un chevere</h1>
       <svg
         data-name="Capa 1"
         xmlns="http://www.w3.org/2000/svg"
